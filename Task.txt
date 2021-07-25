@@ -1,0 +1,5 @@
+making fall damage 
+adding more levels
+adding enemys to game
+adding images
+making main menu and end screen. point screen.
